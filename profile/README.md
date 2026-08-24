@@ -1,14 +1,24 @@
-# QuadriviumPress
+# Quadrivium Press
 
-Welcome to **QuadriviumPress**! We are dedicated to creating, maintaining, and converting high-quality, open-access physics and STEM educational resources, textbooks, and interactive learning bundles.
+Welcome to **[Quadrivium Press](https://quadriviumpress.com/)**! We build, maintain, and convert open-access mathematics and physics textbooks into high-quality, web-ready digital editions that are free to read, search, and assign.
 
 ---
 
-### 📚 Featured Repositories
+### 📚 Catalog & Repositories
 
-* **[university-physics-bundle](https://github.com/QuadriviumPress/university-physics-bundle)** — A comprehensive JavaScript-based bundle designed for interactive University Physics modules. **[View website](https://quadriviumpress.github.io/university-physics-bundle/)**
-* **[PrinciplesOfMechanics](https://github.com/QuadriviumPress/PrinciplesOfMechanics)** — A LaTeX-formatted digital edition extracted from the PDF of *Principles of Mechanics* by Salma Alrasheed. **[Read online](https://quadriviumpress.github.io/PrinciplesOfMechanics/)**
-* **[UniversityPhysicsIClassicalMechanics](https://github.com/QuadriviumPress/UniversityPhysicsIClassicalMechanics)** — Web-ready LaTeX source for *University Physics I: Classical Mechanics* by Julio Gea-Banacloche. **[Read online](https://quadriviumpress.github.io/UniversityPhysicsIClassicalMechanics/)**
-* **[college-physics-textbook](https://github.com/QuadriviumPress/college-physics-textbook)** — An interactive, web-friendly open textbook for introductory college physics. **[Read online](https://quadriviumpress.github.io/college-physics-textbook/)**
-* **[opticsTextbook](https://github.com/QuadriviumPress/opticsTextbook)** — An interactive textbook covering key optics principles and visual demonstrations. **[Read online](https://quadriviumpress.github.io/opticsTextbook/)**
-* **[ElectromagneticsVolOneTextbook](https://github.com/QuadriviumPress/ElectromagneticsVolOneTextbook)** — LaTeX source files and digital formatting for *Electromagnetics Volume 1*. **[Read online](https://quadriviumpress.github.io/ElectromagneticsVolOneTextbook/)**
+#### Mathematics
+* **[Calculus (Volumes 1–3)](https://quadriviumpress.com/calculus-bundle/)** (OpenStax) — Web edition covering single and multivariable calculus, integration, sequences, and vector calculus.
+* **[Elementary Differential Equations](https://quadriviumpress.com/differentialEquations/1-introduction/)** by William F. Trench — Digital edition of first-order equations, boundary value problems, and linear systems.
+* **[Trigonometry](https://quadriviumpress.com/mecmath-trigonometry/)** by Michael Corral — Open textbook covering foundational to advanced trigonometric concepts.
+
+#### Physics & Astronomy
+* **[University Physics (Volumes 1–3)](https://quadriviumpress.com/university-physics-bundle/)** (OpenStax) — Interactive, calculus-based physics series covering mechanics, waves, thermodynamics, electromagnetism, optics, and modern physics. ([GitHub Source](https://github.com/QuadriviumPress/university-physics-bundle))
+* **[University Physics I: Classical Mechanics](https://quadriviumpress.com/UniversityPhysicsIClassicalMechanics/)** by Julio Gea-Banacloche — Web-ready edition of calculus-based classical mechanics. ([GitHub Source](https://github.com/QuadriviumPress/UniversityPhysicsIClassicalMechanics))
+* **[Principles of Mechanics](https://quadriviumpress.com/PrinciplesOfMechanics/)** by Salma Alrasheed — Digital edition formatted from the PDF source. ([GitHub Source](https://github.com/QuadriviumPress/PrinciplesOfMechanics))
+* **[College Physics 2e & AP® Courses](https://quadriviumpress.com/college-physics-bundle/)** (OpenStax) — Algebra-based introductory physics for general college and AP courses. ([GitHub Source](https://github.com/QuadriviumPress/college-physics-textbook))
+* **[Optics](https://quadriviumpress.com/opticsTextbook/)** — Web textbook covering wave optics, geometric principles, and visual demonstrations. ([GitHub Source](https://github.com/QuadriviumPress/opticsTextbook))
+* **[Electromagnetics (Volume 1)](https://quadriviumpress.com/ElectromagneticsVolOneTextbook/)** by Steven W. Ellingson — Digital edition covering fundamental electromagnetic field theory. ([GitHub Source](https://github.com/QuadriviumPress/ElectromagneticsVolOneTextbook))
+* **[Astronomy 2e](https://quadriviumpress.com/)** (OpenStax) — Complete web edition covering planetary science, stellar evolution, and cosmology.
+* **[Atomic Physics for Everyone](https://quadriviumpress.com/)** by Will Raven — Accessible introduction to atomic structure and quantum mechanics.
+* **[Energy and Human Ambitions on a Finite Planet](https://quadriviumpress.com/)** by Tom Murphy — Quantitative analysis of global energy use, physics constraints, and sustainability.
+* **[Quantum Computing for the Quantum Curious](https://quadriviumpress.com/)** by Hughes, Isaacson, Perry, Sun, and Turner — Introductory guide to quantum information and computing fundamentals.
