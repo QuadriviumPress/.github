@@ -1,6 +1,6 @@
 # Quadrivium Press
 
-Welcome to **[Quadrivium Press](https://quadriviumpress.com/)**! We build, maintain, and convert open-access mathematics, physics, and music textbooks into high-quality, web-ready digital editions that are free to read, search, and assign.
+Welcome to **[Quadrivium Press](https://quadriviumpress.com/)**! We build, maintain, and convert open-access mathematics, physics, astronomy, chemistry, and music textbooks into high-quality, web-ready digital editions that are free to read, search, and assign.
 
 <!-- BEGIN GENERATED CATALOG -->
 
@@ -39,6 +39,12 @@ Welcome to **[Quadrivium Press](https://quadriviumpress.com/)**! We build, maint
 - **[University Physics I: Classical Mechanics](https://quadriviumpress.com/universityPhysicsIClassicalMechanics/)** — Julio Gea-Banacloche. [Source](https://github.com/QuadriviumPress/universityPhysicsIClassicalMechanics)
 - **[University Physics Volumes 1-3](https://quadriviumpress.com/university-physics-bundle/)** — OpenStax. [Source](https://github.com/QuadriviumPress/university-physics-bundle)
 - **[Variational Principles in Classical Mechanics](https://quadriviumpress.com/variationalPrinciples/)** — Douglas Cline. [Source](https://github.com/QuadriviumPress/variationalPrinciples)
+
+### Chemistry
+
+- **[General Chemistry: Principles, Patterns, and Applications](https://quadriviumpress.com/generalChemistry/)** — Saylor Academy. [Source](https://github.com/QuadriviumPress/generalChemistry)
+- **[Introduction to Chemistry: General, Organic, and Biological](https://quadriviumpress.com/generalOrganicBiologicalChemistry/)** — 2012 open-textbook edition preserved by Andy Schmitz. [Source](https://github.com/QuadriviumPress/generalOrganicBiologicalChemistry)
+- **[Introductory Chemistry](https://quadriviumpress.com/introductoryChemistry/)** — David W. Ball. [Source](https://github.com/QuadriviumPress/introductoryChemistry)
 
 ### Music
 
