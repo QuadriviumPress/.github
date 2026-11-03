@@ -10,6 +10,7 @@ Welcome to **[Quadrivium Press](https://quadriviumpress.com/)**! We build, maint
 
 ### Mathematics
 
+- **[Beginning Statistics](https://quadriviumpress.com/beginningStatistics/)** — 2012 open-textbook edition preserved by Andy Schmitz. [Source](https://github.com/QuadriviumPress/beginningStatistics)
 - **[Calculus Volumes 1-3](https://quadriviumpress.com/calculus-bundle/)** — OpenStax. [Source](https://github.com/QuadriviumPress/calculus-bundle)
 - **[Elementary Calculus](https://quadriviumpress.com/mecmath-elementary-calculus/)** — Michael Corral. [Source](https://github.com/QuadriviumPress/mecmath-elementary-calculus)
 - **[Elementary Differential Equations](https://quadriviumpress.com/differentialEquations/)** — William F. Trench. [Source](https://github.com/QuadriviumPress/differentialEquations)
